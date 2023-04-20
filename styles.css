@@ -22,7 +22,7 @@ body {
 }
 
 .principal {
-    background-image: url("/media/Background.png");
+    background-image: url("../media/background.png");
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
